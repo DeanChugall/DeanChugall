@@ -1,5 +1,5 @@
 Hi 👋 My name is Dejan Cugalj
-=============================
+===============================
 
 * 🌍  I'm based in Belgrade, Serbia
 * ✉️  You can contact me at [info[at]dejan.pro](mailto:info@dejan.pro)
