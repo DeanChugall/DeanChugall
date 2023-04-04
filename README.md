@@ -17,9 +17,9 @@ Hi 👋 My name is Dejan Cugalj
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeanChugall&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeanChugall&layout=compact&theme=vision-friendly-dark)](https://github.com/DeanChugall/DeanChugall)
 
